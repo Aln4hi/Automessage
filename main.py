@@ -14,7 +14,7 @@ SESSION_STRING = os.environ["SESSION_STRING"]
 
 GROUPS = [
     "eo_bf",
-    "jt_ry",
+    "BH_YF",
 ]
 
 # Your messages — one is picked at random each cycle
