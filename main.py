@@ -16,6 +16,7 @@ GROUPS = [
     "eo_bf",
     "BH_YF",
     "zsdhjfs",
+    "stevenalbaghdadichat"
 ]
 
 # Your messages — one is picked at random each cycle
